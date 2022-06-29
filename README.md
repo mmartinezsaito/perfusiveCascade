@@ -1,6 +1,6 @@
 ## perfusiveCascade
-Code for the research article "Discrete scaling and criticality in a chain of adaptive excitable integrators"
-Sorry for the files not being yet documented.
+Code for the research article "Discrete scaling and criticality in a chain of adaptive excitable integrators".
+The files are not yet documented.
 
 ### Index
 - Main file
