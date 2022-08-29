@@ -1,8 +1,8 @@
-## perfusiveCascade
+## The Perfusive Cascade
 Code for the research article "Discrete scaling and criticality in a chain of adaptive excitable integrators".
 The files are not yet documented.
 
-### Index
+### Contents
 - Main file
   * sozu_stopandgo.m  
 - Plotting files
